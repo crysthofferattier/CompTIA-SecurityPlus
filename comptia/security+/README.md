@@ -23,3 +23,5 @@
 * https://blog.netwrix.com/2019/02/05/getting-ready-comptia-security-practice-test/
 
 * https://passcomptia.com/comptia-security/
+
+* https://comptiaexamtest.com/Security+SY0-501/
