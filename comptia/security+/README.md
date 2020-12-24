@@ -25,3 +25,5 @@
 * https://passcomptia.com/comptia-security/
 
 * https://comptiaexamtest.com/Security+SY0-501/
+
+* https://www.certlibrary.com/exam/SY0-501
